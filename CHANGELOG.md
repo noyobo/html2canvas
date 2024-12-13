@@ -2,6 +2,15 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## 1.4.2 (2024-12-13)
+
+
+### ci
+
+* ci.yml ([cf0c546](https://github.com/niklasvh/html2canvas/commit/cf0c5462097d5335e31d2b52ab87861baed64c13))
+
+
+
 ## [1.4.1](https://github.com/niklasvh/html2canvas/compare/v1.4.0...v1.4.1) (2022-01-22)
 
 
